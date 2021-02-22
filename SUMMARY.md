@@ -14,4 +14,5 @@
 * [touch](touch.md)
 * [cat](cat.md)
 * [echo](echo.md)
+* [some of terminal shortcuts](some-of-terminal-shortcuts.md)
 
