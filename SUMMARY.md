@@ -5,6 +5,7 @@
 * [cd](cd.md)
 * [ls](ls.md)
 * [man & help](man-help.md)
+* [sudo](sudo.md)
 * [apt & apt-get & aptitude](apt-apt-get-aptitude.md)
 * [snap](snap.md)
 * [mkdir](mkdir.md)
