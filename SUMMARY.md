@@ -5,6 +5,7 @@
 * [cd](cd.md)
 * [ls](ls.md)
 * [man & help](man-help.md)
+* [sudo](sudo.md)
 * [apt & apt-get & aptitude](apt-apt-get-aptitude.md)
 * [snap](snap.md)
 * [mkdir](mkdir.md)
@@ -14,4 +15,5 @@
 * [touch](touch.md)
 * [cat](cat.md)
 * [echo](echo.md)
+* [some of terminal shortcuts](some-of-terminal-shortcuts.md)
 
