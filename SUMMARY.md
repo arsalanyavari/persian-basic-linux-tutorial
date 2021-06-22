@@ -13,6 +13,7 @@
 * [history](history.md)
 * [stat](stat.md)
 * [touch](touch.md)
+* [rm](rm.md)
 * [cat](cat.md)
 * [echo](echo.md)
 * [some of terminal shortcuts](some-of-terminal-shortcuts.md)
