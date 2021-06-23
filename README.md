@@ -7,6 +7,12 @@ description: >-
 
 # introduction
 
+
+
+> اگر خواستین اینارو بخونین و دارین از طرف  Github میخونینشون پیشنهادم اینه که به این آدرس برین و گیت بوکشو بخونین چون راست چینه 
+>
+> [https://arsalanyavari.gitbook.io/persian-basic-linux-tutorial/](https://arsalanyavari.gitbook.io/persian-basic-linux-tutorial/)
+
 ![](https://uupload.ir/files/t4yc_photo_2021-02-19_00-28-37.jpg)
 
 خط فرمان  
