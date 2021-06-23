@@ -18,4 +18,5 @@
 * [echo](echo.md)
 * [some of terminal shortcuts](some-of-terminal-shortcuts.md)
 * [pushd & popd](pushd-and-popd.md)
+* [kill](kill.md)
 
