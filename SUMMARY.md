@@ -20,4 +20,6 @@
 * [pushd & popd](pushd-and-popd.md)
 * [kill](kill.md)
 * [which](which.md)
+* [chmod](chmod.md)
+* [Untitled](untitled.md)
 
