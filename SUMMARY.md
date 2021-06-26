@@ -21,5 +21,5 @@
 * [kill](kill.md)
 * [which](which.md)
 * [chmod](chmod.md)
-* [Untitled](untitled.md)
+* [neofetch & cpufetch](untitled.md)
 
