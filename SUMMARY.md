@@ -15,11 +15,12 @@
 * [touch](touch.md)
 * [rm](rm.md)
 * [cat](cat.md)
+* [less & more](less-and-more.md)
 * [echo](echo.md)
 * [some of terminal shortcuts](some-of-terminal-shortcuts.md)
 * [pushd & popd](pushd-and-popd.md)
 * [kill](kill.md)
 * [which](which.md)
 * [chmod](chmod.md)
-* [Untitled](untitled.md)
+* [neofetch & cpufetch](untitled.md)
 
