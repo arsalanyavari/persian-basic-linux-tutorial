@@ -23,4 +23,5 @@
 * [which](which.md)
 * [chmod](chmod.md)
 * [neofetch & cpufetch](untitled.md)
+* [nmtui](nmtui.md)
 
