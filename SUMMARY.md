@@ -24,4 +24,5 @@
 * [chmod](chmod.md)
 * [neofetch & cpufetch](untitled.md)
 * [nmtui](nmtui.md)
+* [zip , xz , gzip & bzip](zip-xz-gzip-and-bzip.md)
 
