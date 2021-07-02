@@ -12,6 +12,12 @@ description: >-
 > اگر خواستین اینارو بخونین و دارین از طرف  Github میخونینشون پیشنهادم اینه که به این آدرس برین و گیت بوکشو بخونین چون راست چینه 
 >
 > [https://arsalanyavari.gitbook.io/persian-basic-linux-tutorial/](https://arsalanyavari.gitbook.io/persian-basic-linux-tutorial/)
+>
+> اگر هم دارین گیت بوک رو میخونین و جاییش به نظرتون مشکل داشت یا خواستین شمام بنویسین یا هر کاری از این قبیل توی گیت هابم هستن اینا به ادرس زیر که میتونین فورک بزنین و درنهایت یه پول ریکوئست ... 
+>
+> [https://github.com/arsalanyavari/persian-basic-linux-tutorial](https://github.com/arsalanyavari/persian-basic-linux-tutorial)
+
+
 
 ![](https://uupload.ir/files/t4yc_photo_2021-02-19_00-28-37.jpg)
 
