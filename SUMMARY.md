@@ -22,7 +22,8 @@
 * [kill](kill.md)
 * [which](which.md)
 * [chmod](chmod.md)
-* [neofetch & cpufetch](untitled.md)
+* [neofetch & cpufetch](neofetch-and-cpufetch.md)
 * [nmtui](nmtui.md)
 * [zip , xz , gzip & bzip](zip-xz-gzip-and-bzip.md)
+* [change your shell \(zsh\)](zsh.md)
 
