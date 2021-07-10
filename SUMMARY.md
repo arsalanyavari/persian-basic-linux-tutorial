@@ -13,6 +13,7 @@
 * [history](history.md)
 * [stat](stat.md)
 * [touch](touch.md)
+* [cp](cp.md)
 * [rm](rm.md)
 * [cat](cat.md)
 * [less & more](less-and-more.md)
