@@ -4,6 +4,7 @@
 * [pwd](pwd.md)
 * [cd](cd.md)
 * [ls](ls.md)
+* [grep](grep.md)
 * [man & help](man-help.md)
 * [sudo](sudo.md)
 * [apt & apt-get & aptitude](apt-apt-get-aptitude.md)
