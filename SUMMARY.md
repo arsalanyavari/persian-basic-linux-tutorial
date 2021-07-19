@@ -22,6 +22,7 @@
 * [echo](echo.md)
 * [some of terminal shortcuts](some-of-terminal-shortcuts.md)
 * [pushd & popd](pushd-and-popd.md)
+* [ps](ps.md)
 * [kill](kill.md)
 * [which](which.md)
 * [chmod](chmod.md)
