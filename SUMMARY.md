@@ -24,6 +24,7 @@
 * [pushd & popd](pushd-and-popd.md)
 * [ps](ps.md)
 * [kill](kill.md)
+* [top](top.md)
 * [which](which.md)
 * [chmod](chmod.md)
 * [neofetch & cpufetch](neofetch-and-cpufetch.md)
