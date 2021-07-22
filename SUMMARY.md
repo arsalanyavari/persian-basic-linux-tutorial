@@ -27,7 +27,7 @@
 * [top](top.md)
 * [which](which.md)
 * [chmod](chmod.md)
-* [neofetch & cpufetch](neofetch-and-cpufetch.md)
+* [neofetch & cpufetch & linuxlogo](neofetch-and-cpufetch-and-linuxlogo.md)
 * [ifconfig & ip addr](ifconfig-and-ip-addr.md)
 * [nmtui](nmtui.md)
 * [zip , xz , gzip & bzip](zip-xz-gzip-and-bzip.md)
