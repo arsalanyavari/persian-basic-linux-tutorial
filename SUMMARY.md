@@ -20,6 +20,7 @@
 * [grep](grep.md)
 * [less & more](less-and-more.md)
 * [echo](echo.md)
+* [exit](exit.md)
 * [some of terminal shortcuts](some-of-terminal-shortcuts.md)
 * [pushd & popd](pushd-and-popd.md)
 * [ps](ps.md)
