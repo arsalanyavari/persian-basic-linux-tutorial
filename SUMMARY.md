@@ -8,6 +8,7 @@
 * [sudo](sudo.md)
 * [apt & apt-get & aptitude](apt-apt-get-aptitude.md)
 * [snap](snap.md)
+* [funny commands](funny-commands.md)
 * [mkdir](mkdir.md)
 * [rmdir](rmdir.md)
 * [history](history.md)
