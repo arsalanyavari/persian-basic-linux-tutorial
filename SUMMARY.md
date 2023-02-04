@@ -3,7 +3,7 @@
 * [introduction](README.md)
 * [pwd](pwd.md)
 * [cd](cd.md)
-* [ls](ls/README.md)
+* [ls](ls.md)
   * [instead of ls](ls/instead-of-ls.md)
 * [man & help](man-help.md)
 * [sudo](sudo.md)
