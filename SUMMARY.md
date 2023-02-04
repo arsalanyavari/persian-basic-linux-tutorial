@@ -3,7 +3,8 @@
 * [introduction](README.md)
 * [pwd](pwd.md)
 * [cd](cd.md)
-* [ls](ls.md)
+* [ls](ls/README.md)
+  * [instead of ls](ls/instead-of-ls.md)
 * [man & help](man-help.md)
 * [sudo](sudo.md)
 * [apt & apt-get & aptitude](apt-apt-get-aptitude.md)
@@ -37,5 +38,4 @@
 * [ifconfig & ip addr](ifconfig-and-ip-addr.md)
 * [nmtui](nmtui.md)
 * [zip , xz , gzip & bzip](zip-xz-gzip-and-bzip.md)
-* [change your shell \(zsh\)](zsh.md)
-
+* [change your shell (zsh)](zsh.md)
