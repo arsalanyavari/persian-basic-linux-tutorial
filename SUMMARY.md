@@ -7,6 +7,7 @@
   * [ls options](ls/ls-options/README.md)
     * [ls -1](ls/ls-options/ls-1.md)
     * [ls -s](ls/ls-options/ls-s.md)
+    * [ls -h](ls/ls-options/ls-h.md)
   * [instead of ls](ls/instead-of-ls.md)
 * [man & help](man-help.md)
 * [sudo](sudo.md)
