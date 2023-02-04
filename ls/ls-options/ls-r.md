@@ -10,7 +10,7 @@ description: >-
 
 سخت نگیرین کافیه از آپشن R- استفاده کنین تا مطابق تصویر زیر (به عنوان مثال) براتون این کارو انجام بده
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>تفاوت ls با ls -R</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>تفاوت ls با ls -R</p></figcaption></figure>
 
 دقت کنین که R هم مخفف recursive عه ینی به طور بازگشتی‌طور میاد از نوه‌ترین پوشه شروع میکنه محتواشو ls گرفتن تا به والدترین پوشه که همون . باشه برسه :)\
 \

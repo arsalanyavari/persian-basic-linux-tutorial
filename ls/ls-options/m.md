@@ -2,7 +2,7 @@
 description: بین المان‌ها یه کاما "," میذاره در واقع خروجی رو به فرمت comma-separated میکنه
 ---
 
-# -m
+# ls -m
 
 <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>تفاوت ls با  ls -m</p></figcaption></figure>
 

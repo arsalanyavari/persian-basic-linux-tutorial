@@ -9,7 +9,7 @@ description: >-
 
 آپشن h- کمک میکنه که خروجی humam readable بشه؛ ینی خوندنش واسه ما انسانا راحت بشه. مثالی که در قسمت [ls -s](ls-s.md) زده شد را بخاطر بیارین. حالا میخوایم از آپشن h- هم استفاده کنیم.
 
-<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>خروجی استفاده از آپشن h-</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption><p>خروجی استفاده از آپشن h-</p></figcaption></figure>
 
 همونطور که میبینین سایز‌ها به‌جای بر اساس بایت بودن، بر اساس کیلوبایت و مگابایت شدن که این خیلی به ما کمک میکنه.
 
