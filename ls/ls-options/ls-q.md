@@ -6,7 +6,7 @@ description: برای لیست کردن محتوای دایرکتوری و گذ�
 
 اینم مثل قبلی توضیح خاصی نداره همین خروجیشو ببینین کافیه فکر میکنم
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>تفاوت ls با ls -Q</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>تفاوت ls با ls -Q</p></figcaption></figure>
 
 
 
