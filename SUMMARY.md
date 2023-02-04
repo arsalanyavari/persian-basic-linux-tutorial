@@ -9,6 +9,7 @@
     * [ls -s](ls/ls-options/ls-s.md)
     * [ls -h](ls/ls-options/ls-h.md)
     * [ls -a & ls -A](ls/ls-options/ls-a-and-ls-a.md)
+    * [ls -R](ls/ls-options/ls-r.md)
   * [instead of ls](ls/instead-of-ls.md)
 * [man & help](man-help.md)
 * [sudo](sudo.md)
