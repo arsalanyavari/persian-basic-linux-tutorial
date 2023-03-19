@@ -26,6 +26,7 @@
 * [funny commands](funny-commands.md)
 * [time](time.md)
 * [stat](stat.md)
+* [uname](uname.md)
 * [touch](touch.md)
 * [rm](rm.md)
 * [cp](cp.md)
