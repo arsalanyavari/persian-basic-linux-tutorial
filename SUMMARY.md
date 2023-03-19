@@ -49,4 +49,5 @@
 * [nmtui](nmtui.md)
 * [zip , xz , gzip & bzip](zip-xz-gzip-and-bzip.md)
 * [change your shell (zsh)](zsh.md)
+* [systemctl & service](systemctl-and-service.md)
 * [Exit status](exit-status.md)
