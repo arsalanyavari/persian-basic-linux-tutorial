@@ -34,6 +34,7 @@
 * [cat](cat.md)
 * [grep](grep.md)
 * [less & more](less-and-more.md)
+* [pipe  |](pipe-or.md)
 * [echo](echo.md)
 * [xdg-open](xdg-open.md)
 * [exit](exit.md)
