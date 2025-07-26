@@ -9,13 +9,21 @@ description: >-
 
 > <p align="right">اگر خواستین اینارو بخونین و دارین از طرف Github میخونینشون پیشنهادم اینه که به این آدرس برین و گیت بوکشو بخونین چون راست چینه مرتبه و صفحه‌بندی شده</p>
 >
-> <p align="right">اگرم دارین به هردلیلی از خود گیت‌هاب میخونین بزنین روی SUMMARY تا جدول مطالب رو بتونین ببینین و با زدن روی هرکدوم لینک بشین به صفحه‌ی مرتبطش</p>
+> <p align="right">اگرم دارین به هردلیلی از خود گیت‌هاب میخونین بزنین روی SUMMARY بزنین تا جدول مطالب رو بتونین ببینین و با زدن روی هرکدوم لینک بشین به صفحه‌ی مرتبطش</p>
 >
-> [https://arsalanyavari.gitbook.io/persian-basic-linux-tutorial/](https://arsalanyavari.gitbook.io/persian-basic-linux-tutorial/)
+> [https://amirarsalanyavari.gitbook.io/persian-basic-linux-tutorial/](https://amirarsalanyavari.gitbook.io/persian-basic-linux-tutorial/)
 >
 > <p align="right">اگر هم دارین گیت بوک رو میخونین و جاییش به نظرتون مشکل داشت یا خواستین شمام بنویسین یا هر کاری از این قبیل توی گیت هابم هستن اینا به ادرس زیر که میتونین فورک بزنین و درنهایت یه پول ریکوئست ...</p>
 >
 > [https://github.com/arsalanyavari/persian-basic-linux-tutorial](https://github.com/arsalanyavari/persian-basic-linux-tutorial)
+>
+> <p align="right">حتی اگه دوستش داشتین و بهتون کمک کرده بود به عنوان تشکر ازم میتونین یکی یا هر دوتا کار زیر رو انجام بدین:</p>
+>
+> <p align="right">۱. به محک هرچقدر که دوست داشتین دونیت کنین:</p>
+>
+> <p align="right"><a href="https://mahak-charity.org/account-number/">https://mahak-charity.org/account-number/</a></p>
+>
+> <p align="right">۲. تو گیت‌هاب بهش استار <span data-gb-custom-inline data-tag="emoji" data-code="2b50">⭐</span> بدین مایه‌ی خوشحالی خواهد بود <span data-gb-custom-inline data-tag="emoji" data-code="1f607">😇</span></p>
 
 ![](https://uupload.ir/files/t4yc_photo_2021-02-19_00-28-37.jpg)
 
